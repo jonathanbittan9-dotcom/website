@@ -7,3 +7,6 @@ venv/
 
 # macOS
 .DS_Store
+
+# Large media files (exceeds GitHub 100MB limit)
+images/video2.mp4
